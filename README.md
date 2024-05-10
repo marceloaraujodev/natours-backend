@@ -3,7 +3,7 @@ Backend Project coded during a Bootcamp.
 Javascript, Node.js, MongoDB, Pug
 
 Features:
-Automatic email sender,
+Automatic email sender, 
 checkout,
 Authorization and Security,
 Admin options and more...
